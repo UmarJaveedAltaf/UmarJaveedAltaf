@@ -82,11 +82,13 @@
 ### 🔍 Currently Exploring
 
 - 🤖 AI Agents (ReAct, LangChain, Planning Agents)
+- 🧠 RAG Systems (Retrieval-Augmented Generation)
+- 🗣️ LLMs & Agentic AI (Autonomous Multi-Agent Workflows)
+- 🧪 Researching Generative AI (Diffusion Models, LLM Fine-Tuning, Prompt Engineering)
 - 📈 Time Series Forecasting & ML for Finance
-- 🔍 Anomaly & Fraud Detection
 - 🧮 Reinforcement Learning & MDPs
-- 🧰 Production-grade MLOps with Docker & FastAPI
+
 
 ---
 
-⭐️ _If you enjoy my work, feel free to star my repositories — it motivates me to build more!_
+⭐ Advancing the frontiers of ML & AI with curiosity and precision
