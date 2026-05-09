@@ -65,24 +65,7 @@
 | 📈 Time Series | Forecasting & ML for Finance |
 | 🧮 RL | Reinforcement Learning & MDPs |
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmarJaveedAltaf&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarJaveedAltaf&layout=compact&theme=radical&hide_border=true" height="165" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UmarJaveedAltaf&theme=radical&no-frame=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</div>
-
----
 
 <div align="center">
 
